@@ -155,4 +155,4 @@ alterar as contagens de entrega exigidas pelo enunciado.
 
 ## 9. Repositório
 
-Link do repositório: _a preencher após o push via PyCharm ("Share Project on GitHub")._
+Link do repositório: https://github.com/guilherme-alixandre/ProjetoPrn.git

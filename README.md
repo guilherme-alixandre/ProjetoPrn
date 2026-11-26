@@ -22,7 +22,7 @@ dois caminhos redundantes de dois retransmissores cada (`S → R1 → R2 → C` 
 ## Instalação
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/guilherme-alixandre/ProjetoPrn.git>
 cd ProjetoPrn
 python -m venv .venv
 # Windows: .venv\Scripts\activate | Linux/macOS: source .venv/bin/activate
