@@ -1,0 +1,6 @@
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:42.597058+00:00", "no": "R1", "origem": "S", "sequencia": 101, "remetente_salto": "S", "proximo_no": null, "ttl": 2, "acao": "descarte_formato", "detalhe": "destino invalido"}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:42.897737+00:00", "no": "R1", "origem": null, "sequencia": null, "remetente_salto": "S", "proximo_no": null, "ttl": null, "acao": "erro_integridade", "detalhe": "integridade"}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:42.897737+00:00", "no": "R1", "origem": null, "sequencia": null, "remetente_salto": null, "proximo_no": "R2", "ttl": null, "acao": "pulso_enviado", "detalhe": null}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:43.197929+00:00", "no": "R1", "origem": null, "sequencia": null, "remetente_salto": "S", "proximo_no": null, "ttl": null, "acao": "descarte_formato", "detalhe": "ttl_negativo"}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:43.498405+00:00", "no": "R1", "origem": null, "sequencia": null, "remetente_salto": null, "proximo_no": null, "ttl": null, "acao": "descarte_remetente", "detalhe": "endereco nao autorizado: 127.0.0.1:7000"}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:44.508720+00:00", "no": "R1", "origem": null, "sequencia": null, "remetente_salto": null, "proximo_no": "R2", "ttl": null, "acao": "pulso_enviado", "detalhe": null}

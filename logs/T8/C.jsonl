@@ -1,0 +1,3 @@
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:42.690436+00:00", "no": "C", "origem": null, "sequencia": null, "remetente_salto": "R2", "proximo_no": null, "ttl": null, "acao": "pulso_recebido", "detalhe": null}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:43.907035+00:00", "no": "C", "origem": null, "sequencia": null, "remetente_salto": "R2", "proximo_no": null, "ttl": null, "acao": "pulso_recebido", "detalhe": null}
+{"execucao": "T8", "timestamp": "2026-11-26T19:08:44.916573+00:00", "no": "C", "origem": null, "sequencia": null, "remetente_salto": "R4", "proximo_no": null, "ttl": null, "acao": "vizinho_inativo", "detalhe": "sem sinal ha 3.2s"}

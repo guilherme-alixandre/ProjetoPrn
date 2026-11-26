@@ -1,0 +1,4 @@
+# Sem dependencias externas.
+# O projeto usa apenas a biblioteca padrao do Python 3 (socket, json, csv,
+# logging, threading/multiprocessing, argparse, dataclasses, time, datetime).
+# Versao de Python utilizada no desenvolvimento: 3.14.7

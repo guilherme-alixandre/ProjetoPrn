@@ -1,0 +1,15 @@
+{
+  "parametros": {
+    "chave_hmac": "prn-ifg-2026-2-chave-fixa",
+    "intervalo_pulso": 1.0,
+    "tolerancia_pulsos_perdidos": 3,
+    "tempo_de_vida_maximo": 10.0,
+    "janela_dedup_segundos": 30.0
+  },
+  "S":  {"host": "127.0.0.1", "porta": 6000, "envia_para": ["R1", "R3"], "recebe_de": []},
+  "R1": {"host": "127.0.0.1", "porta": 6001, "envia_para": ["R2"],       "recebe_de": ["S"]},
+  "R2": {"host": "127.0.0.1", "porta": 6002, "envia_para": ["C"],        "recebe_de": ["R1"]},
+  "R3": {"host": "127.0.0.1", "porta": 6003, "envia_para": ["R4"],       "recebe_de": ["S"]},
+  "R4": {"host": "127.0.0.1", "porta": 6004, "envia_para": ["C"],        "recebe_de": ["R3"]},
+  "C":  {"host": "127.0.0.1", "porta": 6005, "envia_para": [],           "recebe_de": ["R2", "R4"]}
+}
